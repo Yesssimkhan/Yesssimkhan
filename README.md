@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yesssimkhan
-- 👀 I’m interested in VS Code and PYTHON
+- 👀 I’m interested in VS Code and Python
 - 🌱 I’m currently learning VS Code, Creat new web
 - 💞️ I’m looking to collaborate on new friends
 - 📫 How to reach me sh.yessimkhan@gmail.com
